@@ -1,1 +1,1 @@
-# TheGoldenHoursEvents
+# TheGoldenHourEvents
